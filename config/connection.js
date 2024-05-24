@@ -12,8 +12,8 @@ if (process.env.DB_URL) {
     process.env.DB_PW,
     {
       host: 'localhost',
-      dialect: 'postgres'
-    }
+      dialect: 'postgres',
+    },
   );
 }
 
