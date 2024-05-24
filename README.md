@@ -1,8 +1,8 @@
-# Net-Blogger
+# Net Blogger
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Welcome to Shophify
+## Welcome to Net Blogger
 
 Welcome to Net Blogger, your premier blogging platform!
 
@@ -15,7 +15,7 @@ At Net Blogger, we are committed to empowering writers, bloggers, and content cr
 - [Usage](#usage)
 - [Contributions](#contributions)
 - [Technologies](#technologies)
-- [Link](#link)
+- [Links](#links)
 - [Questions](#questions)
 - [License](#license)
 
@@ -62,11 +62,11 @@ At Net Blogger, we are committed to empowering writers, bloggers, and content cr
     ```bash
     npm start
     ```
-2. Open Insomnia
+### Demo
 
-Use the following as an example of requests:
-
-![image](https://github.com/DRX-88/eShophify/assets/162182740/aa071320-0db9-4e20-a477-1dd9be32bbcd)
+![image](https://github.com/DRX-88/Net-Blogger/assets/162182740/6ddba7af-b95d-4eff-9ad5-a6708ce75005)
+![image](https://github.com/DRX-88/Net-Blogger/assets/162182740/64cc79ee-f7f1-4249-96cf-f8548fa46405)
+![image](https://github.com/DRX-88/Net-Blogger/assets/162182740/fb627081-e087-4df2-bb85-7eb4899b6b49)
 
 ## Contributions
 
@@ -94,8 +94,8 @@ Contributions are welcome! Please follow these steps:
 - [PostgreSQL](https://www.postgresql.org/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 
-## Links
-[Video Tutorial](https://drive.google.com/file/d/1WruPppQgBcUsrcQlPM03h4F8QnoLwUUP/view?usp=drive_link)
+## Link
+[Render Deplyment](https://net-blogger.onrender.com)
 
 [Github Repo](https://github.com/DRX-88/Shophify)
 
