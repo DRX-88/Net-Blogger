@@ -3,9 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Welcome to Shophify
-Welcome to Shophify, your ultimate inventory management solution!
 
-At Shophify, we are dedicated to helping you streamline your inventory processes, ensuring that you have the right products in the right place at the right time. Our platform offers a range of features designed to simplify inventory management, boost efficiency, and support the growth of your business.
+Welcome to Net Blogger, your premier blogging platform!
+
+At Net Blogger, we are committed to empowering writers, bloggers, and content creators to share their stories with the world. Our platform is designed to make blogging easy, enjoyable, and rewarding, offering a suite of tools that cater to both beginners and experienced bloggers.
 
 
 ## Table of Contents
@@ -19,10 +20,11 @@ At Shophify, we are dedicated to helping you streamline your inventory processes
 - [License](#license)
 
 ## Features
-- Get all Categories, Products and Tags.
-- Create new Categories, Products and Tags.
-- Update Categories, Products and Tags.
-- Delete Categories, Products and Tags.
+- Authenticated user login
+- View blog posts
+- Working Navigation
+- Views using handlebars
+- Create, edit and delete posts
 
 
 ## Installation
@@ -45,7 +47,7 @@ At Shophify, we are dedicated to helping you streamline your inventory processes
     ```
 5. Make sure to also put in your Postgres username and password located in the .env.EXAMPLE file and rename the file to .env
 
-    DB_NAME='ecommerce_db'
+    DB_NAME='blogger_db'
     DB_USER=''
     DB_PASSWORD=''
 
