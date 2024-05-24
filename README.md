@@ -89,10 +89,13 @@ Contributions are welcome! Please follow these steps:
 
 ## Technologies
 
-- [Express](https://expressjs.com/)
-- [Sequelize](https://sequelize.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [express](https://www.npmjs.com/package/express)
+- [express-handlebars](https://www.npmjs.com/package/express-handlebars)
+- [express-session](https://www.npmjs.com/package/express-session)
+- [pg](https://www.npmjs.com/package/pg)
+- [sequelize](https://www.npmjs.com/package/sequelize)
 
 ## Link
 [Render Deplyment](https://net-blogger.onrender.com)
